@@ -7,13 +7,16 @@
 |Python      | yalp_grok | Forked from https://github.com/garyelephant/pygrok as it seems to be dead. If pygrok becomes active again this fork may be closed. |https://pypi.python.org/pypi/yalp_grok|
 |Python      | pygrok|python implementation of jordansissel's grok regular expression library    |https://github.com/garyelephant/pygrok|
 |Java |thekrakken/java-grok|Java Grok is simple API that allows you to easily parse logs and other files (single line). With Java Grok, you can turn unstructured log and event data into structured data (JSON).|http://grok.nflabs.com/ http://grok.nflabs.com/|
+|Go|vjeantet/grok|simple library to use/parse grok patterns with go (100%)|https://github.com/vjeantet/grok|
+|JavaScript|2grok|Logging pattern to grok filter converter|https://www.npmjs.com/package/2grok https://github.com/2grok/2grok|
 
 # Packages and distros
 
-| OS      | Name                | Description                            | URL                                    | Maintainer |
+| OS/platform      | Name                | Description                            | URL                                    | Maintainer |
 |---------|---------------------|----------------------------------------|----------------------------------------|------------|
 | Debian  | grok|     | https://packages.debian.org/sid/main/grok | [Stig Sandbeck Mathisen ](mailto:ssm@debian.org) [(KK page)](https://qa.debian.org/developer.php?login=ssm%40debian.org) |
 |Fedora/CentOS| gorkevt|GrokEVT is a collection of scripts built for reading Windows NT event log files. GrokEVT is released under the GNU GPL, and is implemented in Python. GrokEVT is loosely based on the PHP script and documentation provided by Jamie French. Currently the scripts work together on one or more mounted Windows partitions to extract all information needed (registry entries, message templates, and log files) to convert the logs to a human-readable format. |http://rpm.pbone.net/index.php3?stat=3&search=grokevt&srodzaj=3|[Lawrence R_ Rogers (lrr_cert_org)](http://rpm.pbone.net/index.php3/stat/15/pakman/7781/com/Lawrence%20R_%20Rogers%20(lrr_cert_org).html)|
+|syslog-ng grok moudule||https://github.com/balabit/syslog-ng-incubator/tree/master/modules/grok||
 
 # Cloud implementations
 
