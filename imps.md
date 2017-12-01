@@ -15,12 +15,17 @@
 
 # Packages and distros
 
-| OS/platform      | Name                | Description                            | URL                                    | Maintainer |
+| OS      | Name                | Description                            | URL                                    | Maintainer |
 |---------|---------------------|----------------------------------------|----------------------------------------|------------|
 | Debian  | grok|     | https://packages.debian.org/sid/main/grok | [Stig Sandbeck Mathisen ](mailto:ssm@debian.org) [(KK page)](https://qa.debian.org/developer.php?login=ssm%40debian.org) |
 |Fedora/CentOS| gorkevt|GrokEVT is a collection of scripts built for reading Windows NT event log files. GrokEVT is released under the GNU GPL, and is implemented in Python. GrokEVT is loosely based on the PHP script and documentation provided by Jamie French. Currently the scripts work together on one or more mounted Windows partitions to extract all information needed (registry entries, message templates, and log files) to convert the logs to a human-readable format. |http://rpm.pbone.net/index.php3?stat=3&search=grokevt&srodzaj=3|[Lawrence R_ Rogers (lrr_cert_org)](http://rpm.pbone.net/index.php3/stat/15/pakman/7781/com/Lawrence%20R_%20Rogers%20(lrr_cert_org).html)|
+
+# Inline modules
+
+| Platform      | Name                | Description                            | URL                                    | Maintainer |
 |syslog-ng grok moudule||https://github.com/balabit/syslog-ng-incubator/tree/master/modules/grok||
 |rsyslog grok moudule|rsyslog-mmgrok|https://github.com/CNSRE/rsyslog-mmgrok http://www.rsyslog.com/tag/mmnormalize/||
+|Sublime grok grammar|hgs_grammar|https://github.com/clausTue/hgs_grammar/|
 
 # Cloud implementations
 
