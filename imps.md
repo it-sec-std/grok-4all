@@ -23,6 +23,7 @@
 # Inline modules
 
 | Platform      | Name                | Description                            | URL                                    | Maintainer |
+|------------|---------------------|----------------------------------------|----------------------------------------|
 |syslog-ng grok moudule||https://github.com/balabit/syslog-ng-incubator/tree/master/modules/grok||
 |rsyslog grok moudule|rsyslog-mmgrok|https://github.com/CNSRE/rsyslog-mmgrok http://www.rsyslog.com/tag/mmnormalize/||
 |Sublime grok grammar|hgs_grammar|https://github.com/clausTue/hgs_grammar/|
