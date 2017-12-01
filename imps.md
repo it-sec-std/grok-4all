@@ -6,6 +6,7 @@
 |Ruby| jordansissel/ruby-grok |Pure-ruby implementation of grok (also Jordan Sissel). | https://github.com/jordansissel/ruby-grok|
 |Python      | yalp_grok | Forked from https://github.com/garyelephant/pygrok as it seems to be dead. If pygrok becomes active again this fork may be closed. |https://pypi.python.org/pypi/yalp_grok|
 |Python      | pygrok|python implementation of jordansissel's grok regular expression library    |https://github.com/garyelephant/pygrok|
+|Java |thekrakken/java-grok|Java Grok is simple API that allows you to easily parse logs and other files (single line). With Java Grok, you can turn unstructured log and event data into structured data (JSON).|http://grok.nflabs.com/ http://grok.nflabs.com/|
 
 # Packages and distros
 
