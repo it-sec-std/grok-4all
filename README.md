@@ -4,3 +4,5 @@ Aggregation all open information about grok parser's existing implementations, p
 [Known Grok implementations](./imps.md)
 
 [Known Grok pattern sets](./patterns.md)
+
+[Known Grok docs](./docs.md)
