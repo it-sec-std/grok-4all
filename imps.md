@@ -9,6 +9,7 @@
 |Java |thekrakken/java-grok|Java Grok is simple API that allows you to easily parse logs and other files (single line). With Java Grok, you can turn unstructured log and event data into structured data (JSON).|http://grok.nflabs.com/ http://grok.nflabs.com/|
 |Go|vjeantet/grok|simple library to use/parse grok patterns with go (100%)|https://github.com/vjeantet/grok|
 |JavaScript|2grok|Logging pattern to grok filter converter|https://www.npmjs.com/package/2grok https://github.com/2grok/2grok|
+|JavaScript|node-grok|This library is inspired by logstash grok filter but it's not an actual port of it. |https://github.com/Beh01der/node-grok https://memz.co/parsing-log-files-node-js-regex-grok/|
 
 # Packages and distros
 
@@ -17,6 +18,7 @@
 | Debian  | grok|     | https://packages.debian.org/sid/main/grok | [Stig Sandbeck Mathisen ](mailto:ssm@debian.org) [(KK page)](https://qa.debian.org/developer.php?login=ssm%40debian.org) |
 |Fedora/CentOS| gorkevt|GrokEVT is a collection of scripts built for reading Windows NT event log files. GrokEVT is released under the GNU GPL, and is implemented in Python. GrokEVT is loosely based on the PHP script and documentation provided by Jamie French. Currently the scripts work together on one or more mounted Windows partitions to extract all information needed (registry entries, message templates, and log files) to convert the logs to a human-readable format. |http://rpm.pbone.net/index.php3?stat=3&search=grokevt&srodzaj=3|[Lawrence R_ Rogers (lrr_cert_org)](http://rpm.pbone.net/index.php3/stat/15/pakman/7781/com/Lawrence%20R_%20Rogers%20(lrr_cert_org).html)|
 |syslog-ng grok moudule||https://github.com/balabit/syslog-ng-incubator/tree/master/modules/grok||
+|rsyslog grok moudule|rsyslog-mmgrok|https://github.com/CNSRE/rsyslog-mmgrok http://www.rsyslog.com/tag/mmnormalize/||
 
 # Cloud implementations
 
