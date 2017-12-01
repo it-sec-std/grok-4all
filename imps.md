@@ -14,3 +14,10 @@
 |---------|---------------------|----------------------------------------|----------------------------------------|------------|
 | Debian  | grok|     | https://packages.debian.org/sid/main/grok | [Stig Sandbeck Mathisen ](mailto:ssm@debian.org) [(KK page)](https://qa.debian.org/developer.php?login=ssm%40debian.org) |
 |Fedora/CentOS| gorkevt|GrokEVT is a collection of scripts built for reading Windows NT event log files. GrokEVT is released under the GNU GPL, and is implemented in Python. GrokEVT is loosely based on the PHP script and documentation provided by Jamie French. Currently the scripts work together on one or more mounted Windows partitions to extract all information needed (registry entries, message templates, and log files) to convert the logs to a human-readable format. |http://rpm.pbone.net/index.php3?stat=3&search=grokevt&srodzaj=3|[Lawrence R_ Rogers (lrr_cert_org)](http://rpm.pbone.net/index.php3/stat/15/pakman/7781/com/Lawrence%20R_%20Rogers%20(lrr_cert_org).html)|
+
+# Cloud implementations
+
+| Name                | Description                            | URL                                    |
+|---------------------|----------------------------------------|----------------------------------------|
+|Grok debugger||https://grokdebug.herokuapp.com/|
+|Grok constructor|GrokConstructor is a helper for testing and incremental construction of regular expressions for the grok filter that parses logfile lines for Logstash.|http://grokconstructor.appspot.com/|
