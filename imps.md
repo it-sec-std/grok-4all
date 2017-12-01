@@ -10,6 +10,8 @@
 |Go|vjeantet/grok|simple library to use/parse grok patterns with go (100%)|https://github.com/vjeantet/grok|
 |JavaScript|2grok|Logging pattern to grok filter converter|https://www.npmjs.com/package/2grok https://github.com/2grok/2grok|
 |JavaScript|node-grok|This library is inspired by logstash grok filter but it's not an actual port of it. |https://github.com/Beh01der/node-grok https://memz.co/parsing-log-files-node-js-regex-grok/|
+|PHP|php-grok|simple library to use/parse grok patterns with php|https://github.com/kos4live/php-grok|
+|Rust|daschl/grok|A Rust port of the popular grok library for text and log processing|https://github.com/daschl/grok|
 
 # Packages and distros
 
