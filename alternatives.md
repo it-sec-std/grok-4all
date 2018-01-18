@@ -44,3 +44,23 @@ struct integer : seq< opt< one< '+', '-' > >, plus< digit > > {};
 #### Python
 
 [pyPEG – a PEG Parser-Interpreter in Python](https://fdik.org/pyPEG/)
+
+
+#### Lua
+
+[lpeg-grok: Fast, efficient, and reusable pattern matching with Lua and LPeg.](https://github.com/dscoshpe/lpeg-grok)
+
+```Lua
+patterns = {
+	TIMESTAMP = "{:date: (YEAR '/' MONTHNUM2 '/' MONTHDAY) :} ' ' {:time: TIME :}",
+	YEAR = "(%d%d)(%d%d)?",
+	MONTHNUM2 = "('0'[1-9]/'1'[0-2])",
+	MONTHDAY = "(('0'[1-9])/([12][0-9])/('3'[01])/[1-9])",
+	TIME = "(HOUR ':' MINUTE (':' SECOND)?)",
+	HOUR = "('2'[0123]/[01]?[0-9])",
+	MINUTE = "([0-5][0-9])^1",
+	SECOND = "(([0-5]?[0-9]/'60')([:.,][0-9]+)?)",
+}
+
+grok:compile("TIMESTAMP"):match("2014/06/30 06:46:34")
+```
